@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MVVM-Practice.iml" filepath="$PROJECT_DIR$/.idea/MVVM-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MvvmStudy.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MvvmStudy.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MvvmStudy.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MvvmStudy.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MvvmStudy.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MvvmStudy.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MvvmStudy.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MvvmStudy.app.unitTest.iml" />
     </modules>
   </component>
 </project>
